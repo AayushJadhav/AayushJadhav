@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AayushJadhav
-- 👀 I’m interested in Science, coding and Sanskrit.
+- 👀 I’m interested in Science, programming and Sanskrit.
 - 🌱 I’m currently learning in 8th grade.
 - 📫 How to reach me ???
 
