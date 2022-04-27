@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AayushJadhav
-- 👨🏻‍💻 I’m interested in Science, programming and Sanskrit.
-- ✍🏻 I’m currently learning in 9th grade.
+- 👨🏻‍💻 I’m interested in Science, Programming and Sanskrit.
+- ✍🏻 I’m currently learning in 10th grade.
 
 <!---
 AayushJadhav/AayushJadhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
